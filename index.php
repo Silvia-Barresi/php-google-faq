@@ -45,7 +45,7 @@
 
       <header>
 
-        <img src="img/google.pn" alt="">
+        <img src="img/google.png" alt="">
 
       </header>
 
